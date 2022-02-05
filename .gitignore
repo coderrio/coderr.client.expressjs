@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+.yalc/
+
+#docs
+docs/assets/
+docs/classes/
+docs/modules/
+docs/*.html

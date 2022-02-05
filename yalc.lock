@@ -1,0 +1,10 @@
+{
+  "version": "v1",
+  "packages": {
+    "coderr.client": {
+      "signature": "1d9a5e1fb6e4d425aff71e28c0c4c204",
+      "file": true,
+      "replaced": "^1.1.3"
+    }
+  }
+}
